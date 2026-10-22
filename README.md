@@ -2,9 +2,7 @@
 
 A custom Lovelace card that draws a rainwater tank with an animated water level, optional inlet and overflow pipes, a percentage scale, rain information, flow animations, valve buttons, and up to two additional info buttons in the bottom corners.
 
-![Tank card preview](docs/preview.png)
-
-> **Add your own screenshot** to `docs/preview.png` or remove this line.
+<img width="478" height="655" alt="image" src="https://github.com/user-attachments/assets/97df5c7d-fcd6-4806-abe8-8ed41a237ddd" />
 
 ---
 
